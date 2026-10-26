@@ -1,6 +1,5 @@
 {
   "/api/auth/route": "app/api/auth/route.js",
-  "/api/checkout/route": "app/api/checkout/route.js",
-  "/api/users/route": "app/api/users/route.js",
-  "/api/data/route": "app/api/data/route.js"
+  "/api/data/route": "app/api/data/route.js",
+  "/api/members/route": "app/api/members/route.js"
 }
